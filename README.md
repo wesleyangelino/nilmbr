@@ -4,6 +4,7 @@ NILM dataset
 Public data set with 12880 samples from 28 household appliances, each sample contains 140 attributes from 7 statistical information calculated every minute of computation of 20 attributes from the literature.
 
 **List of home appliances:**
+
 | Class | Appliance |
 | --- | --- |
 |1  | Aight bulb |
@@ -36,6 +37,7 @@ Public data set with 12880 samples from 28 household appliances, each sample con
 |34 | Vacuum  |
 
 **List of state-of-art features**
+
 | Abbreviation | Feature name                              |
 | --- | --- |
 | A            | Apparent power                            |
@@ -60,6 +62,7 @@ Public data set with 12880 samples from 28 household appliances, each sample con
 | THDi         |  Total Harmonic distortion of the current |
 
 **Statistical information derived from each feature:**
+
 **avg**: mean
 **std**: standard deviation
 **min**: minimum value
