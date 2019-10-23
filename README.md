@@ -64,11 +64,20 @@ Public data set with 12880 samples from 28 household appliances, each sample con
 **Statistical information derived from each feature:**
 
 **avg**: mean
+
 **std**: standard deviation
+
 **min**: minimum value
+
 **max**: maximum value
+
 **Q1**: first quartile
+
 **Q2**: second quartile
+
 **Q3**: third quartile
 
+
+
+----------
 Dataset created by *Wesley A. Souza* and *Tiago A. Almeida*
