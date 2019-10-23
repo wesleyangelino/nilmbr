@@ -3,8 +3,7 @@ NILM dataset
 
 Public data set with 12880 samples from 28 household appliances, each sample contains 140 attributes from 7 statistical information calculated every minute of computation of 20 attributes from the literature.
 
-List of home appliances:
-
+**List of home appliances:**
 | Class | Appliance |
 | --- | --- |
 |1  | Aight bulb |
@@ -36,10 +35,9 @@ List of home appliances:
 |33 | Regular fridge   |
 |34 | Vacuum  |
 
-List of state-of-art features
-+--------------+-------------------------------------------+
+**List of state-of-art features**
 | Abbreviation | Feature name                              |
-+--------------+-------------------------------------------+
+| --- | --- |
 | A            | Apparent power                            |
 | P            |  Active power                             |
 | Q            |  Reactive power                           |
@@ -60,17 +58,14 @@ List of state-of-art features
 | H17          |  17th current harmonic                    |
 | H19          |  19th current harmonic                    |
 | THDi         |  Total Harmonic distortion of the current |
-+--------------+-------------------------------------------+
 
-Statistical information derived from each feature:
+**Statistical information derived from each feature:**
+**avg**: mean
+**std**: standard deviation
+**min**: minimum value
+**max**: maximum value
+**Q1**: first quartile
+**Q2**: second quartile
+**Q3**: third quartile
 
-avg: mean
-std: standard deviation
-min: minimum value
-max: maximum value
-Q1: first quartile
-Q2: second quartile
-Q3: third quartile
-
-
-Dataset created by Wesley A. Souza and Tiago A. Almeida
+Dataset created by *Wesley A. Souza* and *Tiago A. Almeida*
