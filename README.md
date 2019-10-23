@@ -4,38 +4,37 @@ NILM dataset
 Public data set with 12880 samples from 28 household appliances, each sample contains 140 attributes from 7 statistical information calculated every minute of computation of 20 attributes from the literature.
 
 List of home appliances:
-+------------+-------------------------------------------+
-| Class      | Appliance                                 |
-+------------+-------------------------------------------+
-|1           | Aight bulb                                |
-|2           | Air conditioning                          |
-|3           | Refrigerator                              |
-|4           | Microwave                                 |
-|5           | CRT TV                                    |
-|6           | LCD TV                                    |
-|8           | Electrical shower                         |
-|9           | RL Load 1                                 |
-|10          | NL Load 1                                 |
-|11          | NL Load 2                                 |
-|13          | Iron                                      |
-|14          | Washing Machine                           |
-|15          | Hairdryer                                 |
-|16          | Fluorescent lamp                          |
-|17          | Mix lamp                                  |
-|20          | ASD Dryer                                 |
-|21          | ASD Fridge                                |
-|22          | Blender                                   |
-|23          | Bread maker                               |
-|24          | Desktop PC                                |
-|26          | Food processor                            |
-|27          | Freezer                                   |
-|28          | Furnace                                   |
-|29          | Garage door                               |
-|30          | Laptop                                    |
-|32          | Regular dryer                             |
-|33          | Regular fridge                            |
-|34          | Vacuum                                    |
-+------------+-------------------------------------------+
+
+| Class | Appliance |
+| --- | --- |
+|1  | Aight bulb |
+|2  | Air conditioning  |
+|3  | Refrigerator  |
+|4  | Microwave  |
+|5  | CRT TV  |
+|6  | LCD TV  |
+|8  | Electrical shower  |
+|9  | RL Load 1  |
+|10 | NL Load 1 |
+|11 | NL Load 2 |
+|13 | Iron  |
+|14 | Washing Machine  |
+|15 | Hairdryer  |
+|16 | Fluorescent lamp |
+|17 | Mix lamp  |
+|20 | ASD Dryer   |
+|21 | ASD Fridge  |
+|22 | Blender    |
+|23 | Bread maker |
+|24 | Desktop PC |
+|26 | Food processor |
+|27 | Freezer   |
+|28 | Furnace  |
+|29 | Garage door  |
+|30 | Laptop  |
+|32 | Regular dryer  |
+|33 | Regular fridge   |
+|34 | Vacuum  |
 
 List of state-of-art features
 +--------------+-------------------------------------------+
