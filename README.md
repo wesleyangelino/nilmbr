@@ -7,7 +7,7 @@ Public data set with 12880 samples from 28 household appliances, each sample con
 
 | Class | Appliance |
 | --- | --- |
-|1  | Aight bulb |
+|1  | Light bulb |
 |2  | Air conditioning  |
 |3  | Refrigerator  |
 |4  | Microwave  |
